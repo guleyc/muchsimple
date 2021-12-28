@@ -5,4 +5,4 @@ The simplest bludit blog theme forever.
 
 ## Author
 - Çağatay Güley
-- https://guley.co
+- https://guley.com.tr
